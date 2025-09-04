@@ -26,8 +26,8 @@ Guacamole is the only Internet-exposed VM (TCP 443); everything else stays priva
 ## Quick start
 1. Clone the repo
    ```bash
-   git clone <REPO_URL>
-   cd <PROJECT_DIR>
+   git clone https://github.com/vilacham/schrodinger_esc1_gcp_lab.git
+   cd schrodinger_esc1_gcp_lab
    ```
 2. Authenticate (ADC) and set project for CLI (optional)
    ```bash
